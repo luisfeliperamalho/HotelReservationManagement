@@ -1,0 +1,15 @@
+C:\projects\HotelReservationManagement\HotelReservationManagement\bin\Debug\net9.0\HotelReservationManagement.exe
+C:\projects\HotelReservationManagement\HotelReservationManagement\bin\Debug\net9.0\HotelReservationManagement.deps.json
+C:\projects\HotelReservationManagement\HotelReservationManagement\bin\Debug\net9.0\HotelReservationManagement.runtimeconfig.json
+C:\projects\HotelReservationManagement\HotelReservationManagement\bin\Debug\net9.0\HotelReservationManagement.dll
+C:\projects\HotelReservationManagement\HotelReservationManagement\bin\Debug\net9.0\HotelReservationManagement.pdb
+C:\projects\HotelReservationManagement\HotelReservationManagement\obj\Debug\net9.0\HotelReservationManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\HotelReservationManagement\HotelReservationManagement\obj\Debug\net9.0\HotelReservationManagement.AssemblyInfoInputs.cache
+C:\projects\HotelReservationManagement\HotelReservationManagement\obj\Debug\net9.0\HotelReservationManagement.AssemblyInfo.cs
+C:\projects\HotelReservationManagement\HotelReservationManagement\obj\Debug\net9.0\HotelReservationManagement.csproj.CoreCompileInputs.cache
+C:\projects\HotelReservationManagement\HotelReservationManagement\obj\Debug\net9.0\HotelReservationManagement.sourcelink.json
+C:\projects\HotelReservationManagement\HotelReservationManagement\obj\Debug\net9.0\HotelReservationManagement.dll
+C:\projects\HotelReservationManagement\HotelReservationManagement\obj\Debug\net9.0\refint\HotelReservationManagement.dll
+C:\projects\HotelReservationManagement\HotelReservationManagement\obj\Debug\net9.0\HotelReservationManagement.pdb
+C:\projects\HotelReservationManagement\HotelReservationManagement\obj\Debug\net9.0\HotelReservationManagement.genruntimeconfig.cache
+C:\projects\HotelReservationManagement\HotelReservationManagement\obj\Debug\net9.0\ref\HotelReservationManagement.dll
